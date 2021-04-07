@@ -1,0 +1,10 @@
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.deps.json
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.json
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.dev.json
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.dll
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.pdb
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csprojAssemblyReference.cache
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfoInputs.cache
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfo.cs
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.dll
+D:\SoftUni\c#-DB\Entity Framework Core\Retake-18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.pdb

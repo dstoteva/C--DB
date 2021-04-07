@@ -1,0 +1,10 @@
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+D:\SoftUni\c#-DB\Entity Framework Core\JSONprosessing\Product Shop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
